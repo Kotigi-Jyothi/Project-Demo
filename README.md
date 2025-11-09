@@ -1,3 +1,3 @@
 # Project-Demo
 First git repository
-Kotigi-Jyothi
+Author - Kotigi-Jyothi
